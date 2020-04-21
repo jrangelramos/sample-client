@@ -20,7 +20,7 @@
 
     <properties>
         <jdk.version>1.8</jdk.version>
-        <start-class>com.sprint.dna.be.nms.Main</start-class>
+        <start-class>com.demo.Main</start-class>
 
         <java.version>1.8</java.version>
         <spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
